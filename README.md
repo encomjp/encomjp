@@ -1,6 +1,6 @@
 # Hi, I'm Adrian 👋
 
-IT specialist for systems integration (IHK) from Mannheim, Germany. I work with Linux and Windows infrastructure, Docker, networking and IT security, and I build open-source tools on the side.
+today a software developer and ex-IT specialist for systems integration (IHK) from Mannheim, Germany. I work with Linux and Windows infrastructure, Docker, networking and IT security, and I build open-source tools on the side, today i also build systems for blood transfusion and donation (GMP).
 
 🌐 **Portfolio:** [adrian-kozlowski.de](https://adrian-kozlowski.de)
 🎮 **Free browser games:** [games.adrian-kozlowski.com](https://games.adrian-kozlowski.com)
